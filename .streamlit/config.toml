@@ -1,0 +1,9 @@
+# Streamlit theme config
+
+[theme]
+base="light"
+primaryColor="#004280"
+backgroundColor="#fbfdfdff"
+secondaryBackgroundColor="#f0f7fbef"
+textColor="#000818ff"
+font="sans serif"
